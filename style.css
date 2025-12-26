@@ -1,0 +1,61 @@
+body {
+    background-color: white #FFFDEB;
+}
+#demotext  {
+    text-align:center;
+    text-shadow:2px 3px 3px #313131;
+
+}
+div {
+    background-color:white;
+
+    margin-left:15px;
+    margin-right:15px;
+    padding:5px;
+    padding-left:5px;
+    border-radius:5px;
+    box-shadow:3px 3px 5px 5px #FFC0CB;
+}
+
+a {
+    display:inline-block ;
+    text-decoration:none;
+  
+    
+}
+button {
+    margin-left:15px;
+    display:inline;
+    text-align:center; 
+  
+    border-radius:10px;
+    
+}
+
+button[type="Shtëpiza"]{
+    box-shadow:5px 5px 5px 5px #FFC0CB inset;
+    width:80px;
+    height:40px;
+    
+}
+button[type="Të fundit"]{
+    box-shadow:5px 5px 5px 5px #FFC0CB inset;
+    width:80px;
+    height:40px;
+}
+button[type="Për nënat"]{
+    box-shadow:5px 5px 5px 5px #FFC0CB inset;
+    width:80px;
+    height:40px;
+}
+footer{
+background: #353535;
+    padding: 32px 0;
+    text-align: center;
+    color: #868686;
+    font-size: 12px;
+
+
+    
+}
+
